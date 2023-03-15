@@ -1,4 +1,8 @@
-require ( './helpers.js' );
+
+
+
+
+require('./helpers.js');
 
 describe('index.js', function() {
   describe('distanceFromHqInBlocks()', function() {
